@@ -1,122 +1,122 @@
 [
   {
     "post_id": 1,
-    "commenter_name": "hanna",
-    "comment": "Очень здорово!",
+    "commenter_name": "Мама",
+    "comment": "Ничего не забудь!",
     "pk": 1
   },
   {
     "post_id": 1,
-    "commenter_name": "jlia",
+    "commenter_name": "Папа",
     "comment": ":)",
     "pk": 2
   },
   {
     "post_id": 1,
-    "commenter_name": "ralf",
-    "comment": "Класс!",
+    "commenter_name": "Бабушка",
+    "comment": "Удачи!",
     "pk": 3
   },
   {
     "post_id": 1,
-    "commenter_name": "leo",
-    "comment": "Интересно. А где это?",
+    "commenter_name": "Дед",
+    "comment": "Много на уроках не спи",
     "pk": 4
   },
   {
     "post_id": 2,
-    "commenter_name": "johnny",
-    "comment": "Класс!",
+      "commenter_name": "Мама",
+    "comment": "Если не сдашь домой не пущу!!!",
     "pk": 5
   },
   {
     "post_id": 2,
-    "commenter_name": "hank",
-    "comment": "Хе хе !",
+    "commenter_name": "Папа",
+    "comment": "Хе хе)))",
     "pk": 6
   },
   {
     "post_id": 2,
-    "commenter_name": "larry",
-    "comment": "Забавное фото!",
+    "commenter_name": "Брат",
+    "comment": "Вот я мучался теперь твоя очередь",
     "pk": 7
   },
   {
     "post_id": 2,
-    "commenter_name": "leo",
-    "comment": "Часть вижу такие фото у друзей! Это новый тренд?",
+    "commenter_name": "Дед",
+    "comment": "Удача тебе не поможет",
     "pk": 8
   },
   {
     "post_id": 3,
-    "commenter_name": "johnny",
+    "commenter_name": "Мама",
     "comment": "Выглядит неплохо )",
     "pk": 9
   },
   {
     "post_id": 3,
-    "commenter_name": "hank",
-    "comment": "Каждый раз захожу в ленту и от тебя что то классное!",
+    "commenter_name": "Папа",
+    "comment": "Вроде как должно быть интерестно",
     "pk": 10
   },
   {
     "post_id": 3,
-    "commenter_name": "larry",
-    "comment": "!!!",
+    "commenter_name": "Сестра",
+    "comment": "учитель там так себе",
     "pk": 11
   },
   {
     "post_id": 3,
-    "commenter_name": "leo",
-    "comment": "Так так, продолжай)",
+    "commenter_name": "Брат",
+    "comment": "нормальный мужик",
     "pk": 12
   },
   {
     "post_id": 4,
-    "commenter_name": "johnny",
-    "comment": "Ухты!",
+    "commenter_name": "Папа",
+    "comment": "почему одни теории когда практика?",
     "pk": 13
   },
   {
     "post_id": 4,
-    "commenter_name": "hank",
-    "comment": "Норм )",
+    "commenter_name": "Мама",
+    "comment": "почему такое вообще есть на медецинском?...",
     "pk": 14
   },
   {
     "post_id": 4,
-    "commenter_name": "larry",
-    "comment": "Оу!",
+    "commenter_name": "Брат",
+    "comment": "неплохо!",
     "pk": 15
   },
   {
     "post_id": 4,
-    "commenter_name": "leo",
+    "commenter_name": "Сестра",
     "comment": "Интерсно...",
     "pk": 16
   },
   {
     "post_id": 5,
-    "commenter_name": "johnny",
-    "comment": "Давно тебя тут не было, с возвращением!",
+    "commenter_name": "Мама",
+    "comment": "Надеюсь ты не взорвешься",
     "pk": 17
   },
   {
     "post_id": 5,
-    "commenter_name": "hank",
+    "commenter_name": "Папа",
     "comment": "Ничего себе, вот это ты молодец!",
     "pk": 18
   },
   {
     "post_id": 6,
-    "commenter_name": "larry",
-    "comment": "Класс!",
+    "commenter_name": "Брат",
+    "comment": "Класс",
     "pk": 19
   },
   {
     "post_id": 7,
-    "commenter_name": "hanna",
-    "comment": "Очень необычная фоторафия! Где это?",
+    "commenter_name": "Мама",
+    "comment": "Много не пей!!!",
     "pk": 20
   }
 ]

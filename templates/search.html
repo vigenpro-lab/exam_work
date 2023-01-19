@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SKYPROGRAM search</title>
+  <title>Расписание search</title>
   <link href="/static/css/styles.min.css" rel="stylesheet">
 </head>
 
@@ -28,7 +28,7 @@
       <form action="/search" class="search__form">
         <input type="search" name="s" class="search__input">
       </form>
-      <p class="search__results">Найдено постов: {{ posts | length }}</p>
+      <p class="search__results">Найдено результатов: {{ posts | length }}</p>
     </div>
     <section class="items">
       {% for i in posts %}
@@ -52,7 +52,7 @@
           </div>
         </div>
         <div class="item__post-bottom">
-          <a href="/post/{{ i.pk }}" class="item__btn-more">Подробнее</a>
+          <a href="/post/{{ i.pk }}" class="item__btn-more">Расскрыть</a>
           <button type="button" class="item__bookmark-btn">
             <img src="/static/img/bookmark.png" alt="" class="item__bookmark-icon" width="24">
           </button>
