@@ -1,0 +1,9 @@
+2023-01-19 09:13:06,000 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-19 09:13:06,000 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-19 09:13:10,102 [INFO] Я перешел на главную страницу
+2023-01-19 09:13:10,118 [INFO] 127.0.0.1 - - [19/Jan/2023 09:13:10] "GET / HTTP/1.1" 200 -
+2023-01-19 09:13:10,147 [INFO] 127.0.0.1 - - [19/Jan/2023 09:13:10] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-19 09:13:10,152 [INFO] 127.0.0.1 - - [19/Jan/2023 09:13:10] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-19 09:13:10,159 [INFO] 127.0.0.1 - - [19/Jan/2023 09:13:10] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-19 09:13:10,339 [INFO] 127.0.0.1 - - [19/Jan/2023 09:13:10] "GET /favicon.ico HTTP/1.1" 200 -

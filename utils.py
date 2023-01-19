@@ -44,7 +44,7 @@ def search_for_posts(query):
         contents = []
         all_posts = get_posts_all()
         for i in all_posts:
-            if query in i["content"]:
+            if query.lower() in i["content"].lower():
                 contents.append(i)
         return contents
     except ValueError:
@@ -67,5 +67,5 @@ def get_post_by_id(post_id):
     for post in posts:
         if post_id == post['pk']:
             posts_pk.append(post)
-    return posts_pk[0]
+    return posts_pk
 
